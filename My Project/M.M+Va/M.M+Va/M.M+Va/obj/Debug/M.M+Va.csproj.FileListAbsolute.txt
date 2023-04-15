@@ -1,0 +1,11 @@
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\bin\Debug\M.M+Va.exe.config
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\bin\Debug\M.M+Va.exe
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\bin\Debug\M.M+Va.pdb
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M_Va.Form1.resources
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M_Va.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.exe
+C:\Users\MSI\OneDrive\Рабочий стол\C#\M.M+Va\M.M+Va\obj\Debug\M.M+Va.pdb
